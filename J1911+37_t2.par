@@ -1,0 +1,23 @@
+PSRJ           J1911+37
+RAJ             19:13:27.8811193           
+DECJ           +37:32:12.43470             
+F0             1.1749791272657584827       
+F1             -1.9085075685170919871e-15   
+PEPOCH         55988.644423695772293       
+POSEPOCH       55988.644423695772293       
+DMEPOCH        55988.644224537027185       
+DM             72.440003369589661693       
+TRES           -nan         
+EPHVER         5                           
+CLK            TT(BIPM)
+UNITS          TCB
+TIMEEPH        IF99
+DILATEFREQ     Y
+PLANET_SHAPIRO Y
+T2CMETHOD      IAU2000B
+NE_SW          4.000
+CORRECT_TROPOSPHERE  Y
+EPHEM          DE421
+NITS           1
+NTOA           0
+CHI2R          inf 0
